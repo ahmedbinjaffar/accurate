@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478213709699",
+    "project_id": "accurate-scale-app-web",
+    "storage_bucket": "accurate-scale-app-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478213709699:android:1611b6389da3b0003f20b6",
+        "android_client_info": {
+          "package_name": "com.accuratestore.accuratescale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOyO_ybY5K-Y3bHAlJifhW9ylLxRKQc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
